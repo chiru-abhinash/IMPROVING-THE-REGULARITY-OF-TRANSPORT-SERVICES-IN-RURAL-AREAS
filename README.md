@@ -1,0 +1,1 @@
+The project is regarding transport scheduling in rural areas. This repository contains root folder named webapp inside web app there will be 2 folders and one python file. the static folder contains css and java script files, template folder contains html file. By compiling the app.py file the web instance will be created.
